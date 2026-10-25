@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "dasogo1016-creator/lab",
   "mainRulesetId": 25828838,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-8829.crm.dynamics.com/",
+  "devEnvId": "d5d2e1d8-35d7-e1dc-9a4b-dcc048607a1d",
+  "devOrgId": "0506168a-98d0-f111-be87-6045bd06d91c",
+  "testEnvUrl": "https://wm-test-8829.crm.dynamics.com/",
+  "testEnvId": "678a7c36-400f-e795-904e-51b953e49d04",
+  "testOrgId": "f26b53c8-9fd0-f111-be88-7ced8d714636",
+  "devProfile": "dev",
+  "testProfile": "test"
 }
